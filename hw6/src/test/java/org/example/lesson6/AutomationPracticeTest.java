@@ -13,7 +13,7 @@ import java.time.Duration;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static ru.yandex.qatools.htmlelements.matchers.WebElementMatchers.isDisplayed;
 
-public class AutomaticePracticeTest {
+public class AutomationPracticeTest {
         WebDriver driver;
         WebDriverWait webDriverWait;
         ChromeOptions chromeOptions;
