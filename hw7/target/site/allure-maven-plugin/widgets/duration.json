@@ -1,0 +1,11 @@
+[ {
+  "uid" : "7de6ccc9eb02b183",
+  "name" : "addWishlistAutomationPractice()",
+  "time" : {
+    "start" : 1650567664668,
+    "stop" : 1650567725946,
+    "duration" : 61278
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

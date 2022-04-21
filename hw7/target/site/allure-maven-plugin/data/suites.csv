@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Apr 21 22:01:04 MSK 2022","Thu Apr 21 22:02:05 MSK 2022","61278","","org.example.lesson6.AutomationPracticeTest","","org.example.lesson6.AutomationPracticeTest","addWishlistAutomationPractice","addWishlistAutomationPractice()",""

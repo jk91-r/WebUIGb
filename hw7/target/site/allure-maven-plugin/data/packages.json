@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "org.example.lesson6.AutomationPracticeTest",
+    "children" : [ {
+      "name" : "addWishlistAutomationPractice",
+      "uid" : "7de6ccc9eb02b183",
+      "parentUid" : "603311b3ad666de50fd9618b4e59d5b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650567664668,
+        "stop" : 1650567725946,
+        "duration" : 61278
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "org.example.lesson6.AutomationPracticeTest"
+  } ]
+}

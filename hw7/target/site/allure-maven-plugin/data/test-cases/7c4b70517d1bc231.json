@@ -1,0 +1,255 @@
+{
+  "uid" : "7c4b70517d1bc231",
+  "name" : "addWishlistAutomationPractice()",
+  "fullName" : "org.example.lesson6.AutomationPracticeTest.addWishlistAutomationPractice",
+  "historyId" : "d1ed7ade5b79c11d628f62d1e76a0c19",
+  "time" : {
+    "start" : 1650564648494,
+    "stop" : 1650564752961,
+    "duration" : 104467
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Вход в аккаунт",
+      "time" : {
+        "start" : 1650564690876,
+        "stop" : 1650564703560,
+        "duration" : 12684
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d2c4a5a108ffb23",
+        "name" : "Cкриншот страницы перед поиском элемента",
+        "source" : "d2c4a5a108ffb23.png",
+        "type" : "image/png",
+        "size" : 1040637
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Логин",
+      "time" : {
+        "start" : 1650564704045,
+        "stop" : 1650564716268,
+        "duration" : 12223
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "11761eaaf44c72a1",
+        "name" : "Cкриншот страницы перед поиском элемента",
+        "source" : "11761eaaf44c72a1.png",
+        "type" : "image/png",
+        "size" : 118426
+      }, {
+        "uid" : "5f7ba6fbea024edd",
+        "name" : "Cкриншот страницы перед поиском элемента",
+        "source" : "5f7ba6fbea024edd.png",
+        "type" : "image/png",
+        "size" : 122469
+      }, {
+        "uid" : "d817937e04b53bb",
+        "name" : "Cкриншот страницы перед поиском элемента",
+        "source" : "d817937e04b53bb.png",
+        "type" : "image/png",
+        "size" : 122753
+      } ],
+      "parameters" : [ {
+        "name" : "email",
+        "value" : "kixayi5723@royins.com"
+      }, {
+        "name" : "passwd",
+        "value" : "123456789"
+      } ],
+      "attachmentsCount" : 3,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Переход на главную страницу сайта",
+      "time" : {
+        "start" : 1650564716268,
+        "stop" : 1650564723462,
+        "duration" : 7194
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "49cf39d119a673ac",
+        "name" : "Cкриншот страницы перед поиском элемента",
+        "source" : "49cf39d119a673ac.png",
+        "type" : "image/png",
+        "size" : 134952
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Переход на страницу товара",
+      "time" : {
+        "start" : 1650564723463,
+        "stop" : 1650564735238,
+        "duration" : 11775
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4220afb06a6fc59",
+        "name" : "Cкриншот страницы перед поиском элемента",
+        "source" : "4220afb06a6fc59.png",
+        "type" : "image/png",
+        "size" : 1002574
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Добавление товара в Wishlist",
+      "time" : {
+        "start" : 1650564735241,
+        "stop" : 1650564742269,
+        "duration" : 7028
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "fc8916800e091905",
+        "name" : "Cкриншот страницы перед поиском элемента",
+        "source" : "fc8916800e091905.png",
+        "type" : "image/png",
+        "size" : 283976
+      }, {
+        "uid" : "41c639fb0e31447",
+        "name" : "Cкриншот страницы перед поиском элемента",
+        "source" : "41c639fb0e31447.png",
+        "type" : "image/png",
+        "size" : 283404
+      }, {
+        "uid" : "dbc79ee883022a8d",
+        "name" : "Cкриншот страницы перед поиском элемента",
+        "source" : "dbc79ee883022a8d.png",
+        "type" : "image/png",
+        "size" : 283387
+      }, {
+        "uid" : "27324db060e838b8",
+        "name" : "Cкриншот страницы перед поиском элемента",
+        "source" : "27324db060e838b8.png",
+        "type" : "image/png",
+        "size" : 284324
+      }, {
+        "uid" : "1757fd3563dd783b",
+        "name" : "Cкриншот страницы перед поиском элемента",
+        "source" : "1757fd3563dd783b.png",
+        "type" : "image/png",
+        "size" : 258061
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 5,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Просмотр товаров в Wishlist",
+      "time" : {
+        "start" : 1650564742269,
+        "stop" : 1650564748692,
+        "duration" : 6423
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7b982c316ee55c42",
+        "name" : "Cкриншот страницы перед поиском элемента",
+        "source" : "7b982c316ee55c42.png",
+        "type" : "image/png",
+        "size" : 134952
+      }, {
+        "uid" : "58eafa06e6e9bc80",
+        "name" : "Cкриншот страницы перед поиском элемента",
+        "source" : "58eafa06e6e9bc80.png",
+        "type" : "image/png",
+        "size" : 148152
+      }, {
+        "uid" : "ccc264872b6090c",
+        "name" : "Cкриншот страницы перед поиском элемента",
+        "source" : "ccc264872b6090c.png",
+        "type" : "image/png",
+        "size" : 106071
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 3,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "77bb7bcd9f5a579",
+      "name" : "Cкриншот страницы перед поиском элемента",
+      "source" : "77bb7bcd9f5a579.png",
+      "type" : "image/png",
+      "size" : 145579
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 15,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 6
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:org.example.lesson6.AutomationPracticeTest]/[method:addWishlistAutomationPractice()]"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JP0VP5V"
+  }, {
+    "name" : "thread",
+    "value" : "13396@DESKTOP-JP0VP5V.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "org.example.lesson6.AutomationPracticeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.lesson6.AutomationPracticeTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "addWishlistAutomationPractice"
+  }, {
+    "name" : "suite",
+    "value" : "org.example.lesson6.AutomationPracticeTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c4b70517d1bc231.json",
+  "parameterValues" : [ ]
+}

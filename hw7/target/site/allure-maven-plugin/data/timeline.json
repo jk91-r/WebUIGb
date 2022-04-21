@@ -1,0 +1,60 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-JP0VP5V",
+    "children" : [ {
+      "name" : "16204@DESKTOP-JP0VP5V.main(1)",
+      "children" : [ {
+        "name" : "addWishlistAutomationPractice()",
+        "uid" : "db8042ec41e3bff3",
+        "parentUid" : "2ab31d37b7d47fbd1eeec5fb361f194c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1650560618671,
+          "stop" : 1650560668007,
+          "duration" : 49336
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2ab31d37b7d47fbd1eeec5fb361f194c"
+    }, {
+      "name" : "14304@DESKTOP-JP0VP5V.main(1)",
+      "children" : [ {
+        "name" : "addWishlistAutomationPractice()",
+        "uid" : "7de6ccc9eb02b183",
+        "parentUid" : "e23491fe5d84433a3a7beaa56b9e63c7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1650567664668,
+          "stop" : 1650567725946,
+          "duration" : 61278
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e23491fe5d84433a3a7beaa56b9e63c7"
+    }, {
+      "name" : "13396@DESKTOP-JP0VP5V.main(1)",
+      "children" : [ {
+        "name" : "addWishlistAutomationPractice()",
+        "uid" : "7c4b70517d1bc231",
+        "parentUid" : "96f0794284883fce11d647288a342197",
+        "status" : "passed",
+        "time" : {
+          "start" : 1650564648494,
+          "stop" : 1650564752961,
+          "duration" : 104467
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "96f0794284883fce11d647288a342197"
+    } ],
+    "uid" : "224c097cf9386c251b254075137d4988"
+  } ]
+}
